@@ -20,3 +20,9 @@ JavaScript
 │── index.html
 │── style.css
 │── script.js
+
+⚙️ How It Works
+User starts at Account step
+Clicks Next to move forward
+Each step updates the UI and progress bar
+Final step shows Review & Submit
