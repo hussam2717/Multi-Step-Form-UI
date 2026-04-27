@@ -10,3 +10,8 @@ Form validation (basic)
 Progress indicator UI
 Clean and minimal design
 Responsive layout
+
+🛠️ Tech Stack
+HTML5
+CSS3
+JavaScript
