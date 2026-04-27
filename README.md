@@ -21,6 +21,13 @@ JavaScript
 │── style.css
 │── script.js
 
+✨ Future Improvements
+Add backend integration
+Store form data
+Add animations/transitions
+Improve validation
+Dark mode support
+
 ⚙️ How It Works
 User starts at Account step
 Clicks Next to move forward
