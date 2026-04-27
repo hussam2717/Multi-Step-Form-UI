@@ -33,3 +33,6 @@ User starts at Account step
 Clicks Next to move forward
 Each step updates the UI and progress bar
 Final step shows Review & Submit
+
+🤝 Contributing
+Pull requests are welcome! Feel free to improve UI or add features.
