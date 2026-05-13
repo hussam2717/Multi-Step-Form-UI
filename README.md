@@ -3,7 +3,7 @@ A clean and responsive multi-step form built using HTML, CSS, and JavaScript. Th
 
 ## Live Demo - https://hussam2717.github.io/Multi-Step-Form-UI/
 
-🚀 Features
+## 🚀 Features
 Step-by-step form flow (Account → Details → Payment → Review)
 Smooth navigation between steps
 Form validation (basic)
