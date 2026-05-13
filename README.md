@@ -1,4 +1,4 @@
-# Multi-Step-Form-UI
+## Multi-Step-Form-UI
 A clean and responsive multi-step form built using HTML, CSS, and JavaScript. This project demonstrates step-by-step form navigation with a modern user interface.
 
 Live Demo - https://hussam2717.github.io/Multi-Step-Form-UI/
