@@ -28,7 +28,7 @@ Add animations/transitions
 Improve validation
 Dark mode support
 
-⚙️ How It Works
+## ⚙️ How It Works
 User starts at Account step
 Clicks Next to move forward
 Each step updates the UI and progress bar
