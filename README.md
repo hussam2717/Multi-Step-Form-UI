@@ -21,7 +21,7 @@ JavaScript
 │── style.css
 │── script.js
 
-✨ Future Improvements
+## ✨ Future Improvements
 Add backend integration
 Store form data
 Add animations/transitions
